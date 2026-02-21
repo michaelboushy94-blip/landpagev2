@@ -1,6 +1,6 @@
-import Navbar from "@/components/Navbar";
-import Hero from "@/components/Hero";
-import ProductVault from "@/components/ProductVault";
+import Navbar from "./components/Navbar";
+import Hero from "./components/Hero";
+import ProductVault from "./components/ProductVault";
 
 export default function Home() {
   return (
